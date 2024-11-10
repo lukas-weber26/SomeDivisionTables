@@ -1,0 +1,2 @@
+Simple lookup is about 35 times faster at dividing and has an error of about 0.3.
+
